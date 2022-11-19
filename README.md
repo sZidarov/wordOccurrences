@@ -1,0 +1,2 @@
+# wordOccurrences
+ word counter function
